@@ -1,0 +1,1 @@
+To initialise, clone and run: ng new my-project --directory ./
